@@ -106,4 +106,6 @@ Este proyecto es una práctica de **Informática Gráfica (IG)** en la que se im
 - Puedes **modificar la velocidad** de la nave y la rotación en `script_entregable.js`.
 - Puedes **añadir nuevas texturas y planetas** ampliando los arrays de texturas y distancias.
 
+## Video
+
 [![Ver demo](https://img.youtube.com/vi/L5MNoO3pEz0/0.jpg)](https://youtu.be/L5MNoO3pEz0))
